@@ -175,6 +175,7 @@
   },
   "ur": {
     "nativeName": "اُردُو"
+    "isRTL": true 
   },
   "vi": {
     "nativeName": "Tiếng Việt"
